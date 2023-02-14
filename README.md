@@ -1,5 +1,13 @@
 ROOSTER GRIN MEDIA- FRONT END TEST
 
+
+
+
+
+
+
+
+
 1. What technologies were used and why?
    Technologies I used:
 
