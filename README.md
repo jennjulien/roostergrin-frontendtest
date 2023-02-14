@@ -15,3 +15,4 @@ ROOSTER GRIN MEDIA- FRONT END TEST
    I honestly enjoyed this entire project. It pushed me to learn more about web development/frontend development. It also made me learn some new things and new ways to make a web page. I definitely will be making more websites like this in the future cause it was fun playing around.
 
  
+Link to mockup: https://jennifer-roostergrinfrontendtest.netlify.app/
